@@ -1,6 +1,6 @@
 
 # CicadaBluw 🪲
-I'm Bluw, an artist and self-taught programmer currently learning Java and C++!
+I'm Bluw, an artist and self-taught programmer currently creating some modded Minecraft experiences and more!
 
 ## About
 - I enjoy all aspects of game design and aim to reflect my knowledge and passion onto my projects!
